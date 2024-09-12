@@ -6,26 +6,26 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: 오승민
+title: cloud engineer
+email: peoplesoft1004@gmail.com
+website: https://velog.io/@osm_cloud
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+# twitter_username: facespics
+github_username:   osm-cloud 
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+instagram_username: oseungmin9436
+# linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -48,10 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
-
+    저는 Python, AWS, Terraform, C를 주로 사용하며 AWS를 활용한 백엔드 플랫폼 인프라 구축에 집중해 왔습니다. <br> 
+    쉽고 빠르게 인프라를 생성해야 한다는 생각에 Terraform과 AWS CloudFormation을 활용해 MySQL 서버를 운영하고, GitHub Actions를 사용해 자동화된 인프라를 운영한 경험이 있습니다. <br>
+    시스템 관리뿐만 아니라 소프트웨어 및 웹 애플리케이션을 만드는 데에도 익숙합니다.
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)

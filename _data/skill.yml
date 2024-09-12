@@ -1,0 +1,28 @@
+- layout: left
+  name: Backend
+  description: | # this will include new lines to allow paragraphs
+    * Java, python, C
+    * Spring Boot, AWS Amplify
+    * Gradle, Maven
+    * Visual Studio Code
+- layout: left
+  name: DevOps
+  description: | # this will include new lines to allow paragraphs
+    * MySQL, MariaDB, PostgreSQL
+    * github action, AWS Code Series, ArgoCD
+    * terraform, cloud formation
+    * Nginx, apache
+    * Linux Centos
+- layout: left
+  name: AWS service
+  description: | # this will include new lines to allow paragraphs
+    * RDS, Dynamo DB, ElasticCache(Redis), DocumentDB
+    * kinesis, Glue, Athena, Redshift, Opensearch
+    * EC2, Lambda
+    * VPC, Cloudfront, API Gateway, Router53, Client VPN
+    * ECR, ECS, EKS
+    * Appflow, EventBridge, SQS
+    * IAM, WAF, AWS KMS, ACM, Secrets manager, Cognito
+    * DMS
+    * Cloudwatch, AWS Config, CloudTrail, System manager
+    * EFS, S3, Backup
