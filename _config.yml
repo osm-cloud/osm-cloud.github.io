@@ -19,7 +19,7 @@ github_username: osm-cloud
 instagram_username: oseungmin9436
 
 # About Section
-about_profile_image: images/profile.jpg
+about_profile_image: images/profiles.jpg
 about_content: | # this will include new lines to allow paragraphs
   저는 Python, AWS, Terraform, C를 주로 사용하며 AWS를 활용한 백엔드 플랫폼 인프라 구축에 집중해 왔습니다. <br>
   쉽고 빠르게 인프라를 생성해야 한다는 생각에 Terraform과 AWS CloudFormation을 활용해 MySQL 서버를 운영하고, GitHub Actions를 사용해 자동화된 인프라를 운영한 경험이 있습니다. <br>
