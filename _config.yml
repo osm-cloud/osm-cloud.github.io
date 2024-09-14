@@ -71,6 +71,19 @@ content:
           * 2024 대전지방기능경기대회 <mark>금매달</mark>
           * 2023 대전지방기능경기대회 <mark>장려상</mark>
       - layout: left
+        title: Cloud Computing study
+        caption: 2023
+        sub_title: AWS 클라우드 교육
+        description: | 
+          * 기능경기대회를 목적으로 하는 학생들을 대상으로 한 교육
+          * 네트워킹/보안
+          * Serverless
+          * Container
+          * CI/CD
+          * Data Pipline
+          * Web Service Infra
+          * Data Infra
+      - layout: left
         title: 계룡디지텍고등학교 정보통신과
         caption: 2022 - 2025
         sub_title: 정보통신 특성화 고등학교
