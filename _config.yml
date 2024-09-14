@@ -7,9 +7,9 @@ version: 2
 
 # Personal info
 name: 오승민
-title: Cloud Engineer
+title: Student
 email: peoplesoft1004@gmail.com
-website: https://velog.io/@osm_cloud
+Blog: https://velog.io/@osm_cloud
 
 # Dark Mode (true/false/never)
 darkmode: false
