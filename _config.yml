@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: 오승민
-title: cloud engineer
+title: Cloud Engineer
 email: peoplesoft1004@gmail.com
 website: https://velog.io/@osm_cloud
 
@@ -15,90 +15,63 @@ website: https://velog.io/@osm_cloud
 darkmode: false
 
 # Social links
-# twitter_username: facespics
-github_username:   osm-cloud 
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
+github_username: osm-cloud
 instagram_username: oseungmin9436
-# linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
-
-# Additional icon links
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-    저는 Python, AWS, Terraform, C를 주로 사용하며 AWS를 활용한 백엔드 플랫폼 인프라 구축에 집중해 왔습니다. <br> 
-    쉽고 빠르게 인프라를 생성해야 한다는 생각에 Terraform과 AWS CloudFormation을 활용해 MySQL 서버를 운영하고, GitHub Actions를 사용해 자동화된 인프라를 운영한 경험이 있습니다. <br>
-    시스템 관리뿐만 아니라 소프트웨어 및 웹 애플리케이션을 만드는 데에도 익숙합니다.
+  저는 Python, AWS, Terraform, C를 주로 사용하며 AWS를 활용한 백엔드 플랫폼 인프라 구축에 집중해 왔습니다. <br>
+  쉽고 빠르게 인프라를 생성해야 한다는 생각에 Terraform과 AWS CloudFormation을 활용해 MySQL 서버를 운영하고, GitHub Actions를 사용해 자동화된 인프라를 운영한 경험이 있습니다. <br>
+  시스템 관리뿐만 아니라 소프트웨어 및 웹 애플리케이션을 만드는 데에도 익숙합니다.
+
 content:
   - title: Skills # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Backend
-        # link_text: Project Website
-    description: | # this will include new lines to allow paragraphs
-      * Java, python, C
-      * Spring Boot, AWS Amplify
-      * Gradle, Maven
-      * Visual Studio Code
-  - layout: left
-    name: DevOps
-    description: | # this will include new lines to allow paragraphs
-      * MySQL, MariaDB, PostgreSQL
-      * github action, AWS Code Series, ArgoCD
-      * terraform, cloud formation
-      * Nginx, apache
-      * Linux Centos
-  - layout: left
-    name: AWS service
-    description: | # this will include new lines to allow paragraphs
-      * RDS, Dynamo DB, ElasticCache(Redis), DocumentDB
-      * kinesis, Glue, Athena, Redshift, Opensearch
-      * EC2, Lambda
-      * VPC, Cloudfront, API Gateway, Router53, Client VPN
-      * ECR, ECS, EKS
-      * Appflow, EventBridge, SQS
-      * IAM, WAF, AWS KMS, ACM, Secrets manager, Cognito
-      * DMS
-      * Cloudwatch, AWS Config, CloudTrail, System manager
-      * EFS, S3, Backup
+        description: | # this will include new lines to allow paragraphs
+          * Java, Python, C
+          * Spring Boot, AWS Amplify
+          * Gradle, Maven
+          * Visual Studio Code
+      - layout: left
+        title: DevOps
+        description: | # this will include new lines to allow paragraphs
+          * MySQL, MariaDB, PostgreSQL
+          * GitHub Actions, AWS Code Series, ArgoCD
+          * Terraform, CloudFormation
+          * Nginx, Apache
+          * Linux (CentOS)
+      - layout: left
+        title: AWS Services
+        description: | # this will include new lines to allow paragraphs
+          * RDS, DynamoDB, ElasticCache (Redis), DocumentDB
+          * Kinesis, Glue, Athena, Redshift, OpenSearch
+          * EC2, Lambda
+          * VPC, CloudFront, API Gateway, Route53, Client VPN
+          * ECR, ECS, EKS
+          * AppFlow, EventBridge, SQS
+          * IAM, WAF, AWS KMS, ACM, Secrets Manager, Cognito
+          * DMS
+          * CloudWatch, AWS Config, CloudTrail, Systems Manager
+          * EFS, S3, Backup
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Education
+    layout: list
     content:
       - layout: left
         title: Harvard University
         caption: 2010 - 2013
         sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+        description: | 
+          During my time at Harvard, I learned key skills like teamwork and working to tight deadlines, which I have carried throughout my career. I also balanced my studies with extracurricular activities, such as being a member of the *Harvard Mountaineering Club*, where I held roles like *Trip Secretary* and *Vice-President*.
 
   - title: A Little More About Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+    content: | 
+      Alongside my interests in networks and software engineering, some of my other interests and hobbies are:
       - Rock climbing
       - Gaming
       - Knitting
@@ -109,7 +82,6 @@ content:
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
 
 # Build settings
 remote_theme: sproogen/resume-theme
@@ -119,4 +91,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
