@@ -19,7 +19,7 @@ github_username: osm-cloud
 instagram_username: oseungmin9436
 
 # About Section
-about_profile_image: images/profiles.jpg
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   저는 Python, AWS, Terraform, C를 주로 사용하며 AWS를 활용한 백엔드 플랫폼 인프라 구축에 집중해 왔습니다. <br>
   쉽고 빠르게 인프라를 생성해야 한다는 생각에 Terraform과 AWS CloudFormation을 활용해 MySQL 서버를 구축하고, Code series를 사용해 자동화된 인프라를 구축한 경험이 있습니다. <br>
@@ -62,16 +62,16 @@ content:
     layout: list
     content:
       - layout: left
-        title: Cloud computing
+        title: Cloud Computing
         caption: 2023 - 2024
         sub_title: 한국산업인력공단이 주최하는 기능경기대회를 목적으로 개설된 동아리 
         description: | 
-          * Public Cloud 에서 제공 하는 솔루션을 이용하여 IT 인프라를 설계 및 구현하는 수준을 요구
+          * Public Cloud에서 제공하는 솔루션을 이용하여 IT 인프라를 설계 및 구현하는 수준을 요구
           * 2024 전국기능경기대회 <mark>우수상</mark>
           * 2024 대전지방기능경기대회 <mark>금매달</mark>
           * 2023 대전지방기능경기대회 <mark>장려상</mark>
       - layout: left
-        title: Cloud Computing study
+        title: Cloud Computing Study
         caption: 2023
         sub_title: AWS 클라우드 교육
         description: | 
@@ -80,7 +80,7 @@ content:
           * Serverless
           * Container
           * CI/CD
-          * Data Pipline
+          * Data Pipeline
           * Web Service Infra
           * Data Infra
       - layout: left
@@ -92,8 +92,9 @@ content:
 
   - title: Certificate
     layout: text
-    content: | 
-    - 2024 정보처리기능사
+    content: |
+      - 2024 정보처리기능사
+
 # Footer
 footer_show_references: true
 
